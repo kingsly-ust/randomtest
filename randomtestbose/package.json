@@ -1,0 +1,22 @@
+{
+  "name": "randomtestbose",
+  "version": "0.0.2",
+  "description": "creating test npm project to understand how to publish it",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsly-ust/randomtest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "kingsly.bose@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsly-ust/randomtest/issues"
+  },
+  "homepage": "https://github.com/kingsly-ust/randomtest#readme"
+}
